@@ -49,7 +49,7 @@ A web app where every browser tab that opens it shares its GPS location with all
 ### Installation
 
 ```bash
-git clone https://github.com/vishalxtyagi/realtime-location-tracker.git
+git clone https://github.com/aryaveer2411/loc_track.git
 cd realtime-location-tracker
 npm install
 ```
